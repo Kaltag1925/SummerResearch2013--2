@@ -1,0 +1,75 @@
+<lamps>
+	<artifact name = "KW 2030 (CL)">
+		<location>H17 UL1</location>
+	</artifact>
+	<artifact name = "KW 1597 (CL)">
+		<location>H17 LR4</location>
+	</artifact>
+	<artifact name = "KW 0139 (CL)">
+		<location>J13 LL4</location>
+	</artifact>
+	<artifact name = "KW 2124 (CL)">
+		<location>G21</location>
+	</artifact>
+	<artifact name = "KW 3605 (CL)">
+		<location>N20 UR4</location>
+	</artifact>
+	<artifact name = "KW 3797 (CL)">
+		<location>O19 LR3</location>
+	</artifact>
+	<artifact name = "KW 3799 (CL)">
+		<location>O19 UL4</location>
+	</artifact>
+	<artifact name = "KW 4268 (CL)">
+		<location>O17 UL4</location>
+	</artifact>
+	<artifact name = "KW 4859 (CL)">
+		<location>N16 LL1</location>
+	</artifact>
+	<artifact name = "KW 0212 (CL)">
+		<location>N15 UR4</location>
+	</artifact>
+	<artifact type name = "KW 1557 (CL)">
+		<location>N14 Left</location>
+		<location>N15 UL</location>
+	</artifact>
+	<artifact type name = "KW 2720 (CL)">
+		<location>N15 LR2</location>
+		<location>O15 UL1</location>
+		<location>N16 UL4</location>
+	</artifact>
+	<artifact name = "KW 3181 (CL)">
+		<location>N16 UR3</location>
+		<location>N16 UR3</location>
+	</artifact>
+	<artifact name = "KW 3190 (CL)">
+		<location>O16 UL2</location>
+	</artifact>
+	<artifact name = "KW 3428 (CL)">
+		<location>O20 LeftEdge</location>
+		<location>N21 UR2</location>
+		<location>O20 LL1</location>
+	</artifact>
+	<artifact name = "KW 4111 (CL)">
+		<location>N16 LR3</location>
+	</artifact>
+	<artifact name = "KW 4467 (CL)">
+		<location>O18 LL</location>
+		<location>N20 UR</location>
+	</artifact>
+	<artifact name = "KW 4513 (CL)">
+		<location>N18 UR4</location>
+		<location>N17 UL4</location>
+		<location>N17 UL4</location>
+		<location>N17 UR3</location>
+	</artifact>
+	<artifact name = "KW 5915 (CL)">
+		<location>O19 LR3</location>
+		<location>O19 UR1</location>
+	</artifact>
+	<artifact name = "KW 5920 (CL)">
+		<location>O15 LR1</location>
+		<location>O16 UR2</location>
+		<location>O16 LL2</location>
+	</artifact>
+</lamps>

@@ -1,0 +1,32 @@
+</bowls>
+	<artifact name = "KW 1916 (BR)">
+		<location>F20 UL2</location>
+		<location>G20 LR4</location>
+		<location>F21 LL4</location>
+	</artifact>
+	<artifact name = "KW 1950 (BR)">
+		<location>F21 LL4</location>
+		<location>L12 LR3</location>
+		<location>M13 LL4</location>
+	</artifact>
+	<artifact name = "KW 3248 (BR)">
+		<location>G20 LR4</location>
+	</artifact>
+	<artifact name = "KW 0277 (BR)">
+		<location>L12</location>
+		<location>M11 LL</location>
+		<location>M11 LL</location>
+		<location>M11 L</location>
+		<location>L12 UR</location>
+	</artifact>
+	<artifact name = "KW 0730 (BR)">
+		<location>N15 UL</location>
+	</artifact>
+	<artifact  name = "KW 1443 (BR)">
+		<location>K15 UL3</location>
+		<location>L12 UL4</location>
+		<location>M11 LeftEdge</location>
+		<location>L11 U</location>
+		<location>J15</location>
+	</artifact>
+</bowls>

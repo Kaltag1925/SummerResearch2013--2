@@ -1,0 +1,50 @@
+<white-shaved>
+	<artifact name = "KW 1058 (WS)">
+		<location>M15 UR</location>
+	</artifact>
+	<artifact name = "KW 1502 (WS)">
+		<location>H18 UL3</location>
+	</artifact>
+	<artifact name = "KW 1593 (WS)">
+		<location>H17 LR3</location>
+	</artifact>
+	<artifact name = "KW 1809 (WS)">
+		<location>M15 L</location>
+	</artifact>
+	<artifact name = "KW 2137 (WS)">
+		<location>G16 LL3</location>
+	</artifact>
+	<artifact name = "KW 3151 (WS)">
+		<location>N17 UL3</location>
+	</artifact>
+	<artifact name = "KW 3182 (WS)">
+		<location>O18 UL2</location>
+	</artifact>
+	<artifact name = "KW 3218 (WS)">
+		<location>M16 UR4</location>
+	</artifact>
+	<artifact name = "KW 3222 (WS)">
+		<location>M16 UR3</location>
+	</artifact>
+	<artifact name = "KW 3223 (WS)">
+		<location>M16 UR2</location>
+	</artifact>
+	<artifact name = "KW 3301 (WS)">
+		<location>K30 LL4</location>
+	</artifact>
+	<artifact name = "KW 3659 (WS)">
+		<location>G33 LR2</location>
+	</artifact>
+	<artifact name = "KW 3677 (WS)">
+		<location>O20 UL3</location>
+	</artifact>
+	<artifact name = "KW 3693 (WS)">
+		<location>O20 UL2</location>
+	</artifact>
+	<artifact name = "KW 3949 (WS)">
+		<location>N16 LR2</location>
+	</artifact>
+	<artifact name = "KW 4164 (WS)">
+		<location>L15 LR2</location>
+	</artifact>
+</Uehite-shaved>
